@@ -1,0 +1,24 @@
+{
+  "name": "thisisme",
+  "version": "0.0.1",
+  "description": "a signed transaction and encrypted information holder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no acts of god"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasbargas/thisisme.git"
+  },
+  "keywords": [
+    "me",
+    "you",
+    "we"
+  ],
+  "author": "matiasbargas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matiasbargas/thisisme/issues"
+  },
+  "homepage": "https://github.com/matiasbargas/thisisme#readme"
+}
